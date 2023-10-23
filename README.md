@@ -11,7 +11,7 @@ https://zuriga.github.io/portfolio2/
 
 ## Setup/Installation Requirements: 
 * _Clone this repository to your desktop_
-* _You can do so by going to https://github.com/ZuriGa/portfolio.git_
+* _You can do so by going to https://github.com/ZuriGa/portfolio2.git_
 
 ## Technologies Used 
 
