@@ -7,7 +7,7 @@ This project is to create a portfolio webpage using HTML and CSS, where I showca
 I utilize HTML tags, boxes and images. 
 
 ## Github pages link:
-https://zuriga.github.io/portfolio/
+https://zuriga.github.io/portfolio2/
 
 ## Setup/Installation Requirements: 
 * _Clone this repository to your desktop_
