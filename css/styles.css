@@ -1,0 +1,122 @@
+.Name {
+    color: rgb(152, 85, 3);
+    text-align: center;
+    background-color: antiquewhite;
+
+}
+
+IMG.flower {
+    display: block;
+    width: 100%;
+    
+}
+
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#about-me {
+    text-align: center;
+    background-color: wheat;
+
+}
+
+.box1 {
+    width: 90%;
+    padding: 10px;
+    border-color: rgb(245, 129, 149);
+    border-width: 7px;
+    border-style: dotted;
+    background-color: pink;
+    margin-bottom: 15px;
+    margin: auto;
+    border-radius: 30px;
+   
+    
+}
+
+.box2 {
+    width: 50%;
+    padding: 10px;
+    border: solid palevioletred;
+    border-width: 9px;
+    background-color: rgb(254, 166, 157);
+    margin-bottom: 10px;
+    margin: auto;
+}
+
+IMG.Nanci-and-I {
+    float: left;
+    margin-left: 0px;
+    width: 50%;
+}
+
+IMG.Nanci-I {
+    display: right;
+    width: 50%;
+}
+
+.box3 {
+    width: 50%;
+    padding: 10px;
+    border: solid rgb(232, 101, 123);
+    border-width: 9px;
+    background-color: rgb(229, 166, 158);
+    margin-bottom: 10px;
+    margin: auto;
+}
+
+IMG.Maggie {
+    float: left;
+    margin-left: 0px;
+    width: 50%;
+    
+
+}
+
+IMG.Maggie2 {
+    display: right;
+    width: 50%;
+
+}
+
+.box4 {
+    width: 50%;
+    padding: 10px;
+    border: solid rgb(221, 57, 85);
+    border-width: 9px;
+    background-color: rgb(242, 183, 176);
+    margin-bottom: 10px;
+    margin: auto;
+
+}
+IMG.Bruno {
+    float: left;
+    margin-left: 0px;
+    width: 50%;
+}
+
+IMG.Brunito {
+    display: right;
+    width: 50%;
+}
+
+.box5 {
+    width: 50%;
+    padding: 10px;
+    border: solid orange;
+    border-width: 9px;
+    background-color: rgb(244, 206, 136);
+    margin-bottom: 10px;
+    margin: auto;
+
+}
+
+
+
+IMG.flowers2 {
+    display: block;
+    width: 100%;
+    display: center;
+}
